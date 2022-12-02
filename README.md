@@ -1,6 +1,6 @@
 
-# Prime Validate
-A npm package for finding n-th fibonacci number (modulo 1000000007) without using any extra memory.
+# Big Fibonacci
+Find n-th fibonacci number (modulo 1000000007) without using any extra memory.
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
